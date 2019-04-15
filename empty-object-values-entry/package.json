@@ -1,0 +1,12 @@
+{
+ "name": "@manekinekko/empty-object-values-entry",
+ "version": "1.0.0",
+ "description": "Test case for bazelbuild/rules_nodejs",
+ "main": "index.js",
+ "author": "Wassim Chegham <github@wassim.dev>",
+ "license": "Apache 2.0",
+ "bin": {
+  "empty": "",
+  "test": "bin/test.js"
+ }
+}

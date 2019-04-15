@@ -1,0 +1,1 @@
+console.log('bin entry for @manekinekko/empty-object-values-entry');
